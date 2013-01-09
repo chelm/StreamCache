@@ -1,0 +1,19 @@
+{
+    "name": "stream-cache"
+  , "description": "An experiment in caching streams of data in X/Y/Z.json tiles"
+  , "version": "0.0.1"
+  , "private": true
+  , "author": "Chris Helm"
+  , "dependencies": {
+  }
+  , "devDependencies": {
+      "mocha": "0.14.x"
+  }
+  , "scripts": {
+      "test": "make test"
+    , "start": "make"
+  }
+  , "engines": { 
+    "node": "0.8.x"
+  }
+}
